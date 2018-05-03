@@ -1,1 +1,1 @@
-# rpg-mager-mv-test
+# rpg-maker-mv-test
